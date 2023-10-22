@@ -1,0 +1,39 @@
+
+[
+    {
+        "id":"supplier",
+        "type":"text",
+        "text1": "Supplier",
+        "text2": "East coast fruits & vegetables"
+    },
+    {
+        "id":"shippingDate",
+        "type":"text",
+        "text1": "Shipping date",
+        "text2": "Thu, Feb 10"
+    },
+    {
+        "id":"total",
+        "type":"text",
+        "text1": "Total",
+        "text2": "$ 15,028.3"
+    },
+    {
+        "id":"category",
+        "type":"icons",
+        "text1": "Category",
+        "text2": []
+    },
+    {
+        "id":"department",
+        "type":"text",
+        "text1": "Department",
+        "text2": "300-444-678"
+    },
+    {
+        "id":"status",
+        "type":"text",
+        "text1": "Status",
+        "text2": "Awaiting your approval"
+    }
+]
